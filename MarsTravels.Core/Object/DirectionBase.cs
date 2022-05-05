@@ -9,7 +9,7 @@ namespace MarsTravels.Core.Object
         {
             if (people.Y < 0 || people.Y > surface.Y || people.X < 0 || people.X > surface.X)
             {
-                throw new Exception("Belirlenen yüzeyin dışına çıkıldı.");
+                throw new Exception("The specified surface has been exceeded.");
             }
         }
     }
