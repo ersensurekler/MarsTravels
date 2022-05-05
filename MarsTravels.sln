@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarsTravels", "MarsTravels\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarsTravels.Application", "MarsTravels.Application\MarsTravels.Application.csproj", "{D4465AF3-EE74-45F5-B3AD-6689EAE6C467}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarsTravels.Core", "MarsTravels.Core\MarsTravels.Core.csproj", "{E6AE7292-FFA9-442A-B30F-EAD59B26B55A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D4465AF3-EE74-45F5-B3AD-6689EAE6C467}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4465AF3-EE74-45F5-B3AD-6689EAE6C467}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4465AF3-EE74-45F5-B3AD-6689EAE6C467}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6AE7292-FFA9-442A-B30F-EAD59B26B55A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6AE7292-FFA9-442A-B30F-EAD59B26B55A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6AE7292-FFA9-442A-B30F-EAD59B26B55A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6AE7292-FFA9-442A-B30F-EAD59B26B55A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
